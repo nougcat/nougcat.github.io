@@ -22,7 +22,14 @@ x = (a+b)/2
 
 ![](dowody.png)
 
+### Zależności między średnimi
+
+![](zaloznosci_srednie.png)
 
 
+
+##### Sources:
 https://www.matemaks.pl/matura-najwazniejsze-wzory-spoza-tablic.html
+https://pazdro.com.pl/web/uploads/files/MPW_strony_m.pdf
 
+<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
