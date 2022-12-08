@@ -18,11 +18,8 @@ x = (a+b)/2
 
 ![](https://www.matemaks.pl/grafika/g0485.png)
 
-### dowody
 
-![](dowody.png)
-
-### Zależności między średnimi
+### Zależności między średnimi / dowody
 
 ![](zaloznosci_srednie.png)
 
@@ -30,6 +27,12 @@ w szczególności
 
 ```math
 \frac{a + b}{2} \geq \sqrt{a * b}
+```
+
+oraz
+
+```math
+\frac{a + b}{2} \geq \sqrt{\frac{a^2 * b^2}{2}}
 ```
 
 ##### Sources:
