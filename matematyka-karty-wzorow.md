@@ -26,7 +26,11 @@ x = (a+b)/2
 
 ![](zaloznosci_srednie.png)
 
+w szczególności
 
+```math
+\frac{a + b}{2} >= \sqrt{a * b}
+```
 
 ##### Sources:
 https://www.matemaks.pl/matura-najwazniejsze-wzory-spoza-tablic.html
