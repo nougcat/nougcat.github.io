@@ -32,7 +32,7 @@ w szczególności
 oraz
 
 ```math
-\frac{a + b}{2} \geq \sqrt{\frac{a^2 * b^2}{2}}
+\frac{a + b}{2} \geq \sqrt{\frac{a^2 + b^2}{2}}
 ```
 
 ##### Sources:
