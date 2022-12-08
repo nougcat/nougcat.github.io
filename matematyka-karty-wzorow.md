@@ -29,7 +29,7 @@ x = (a+b)/2
 w szczególności
 
 ```math
-\frac{a + b}{2} >= \sqrt{a * b}
+\frac{a + b}{2} \geq \sqrt{a * b}
 ```
 
 ##### Sources:
