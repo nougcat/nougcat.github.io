@@ -1,34 +1,52 @@
-<title>Karty wzorów ++</title>
+### Dowolny Trójkąt
 
-## środkowa trójkąta
+![](Triangle.Centroid.svg)
 
 środkowe trójkąta dzielą się na x i 2x
 
-![](Triangle.Centroid.png)
+![](triangle.svg)
 
-### płaszczyzna kartezjańska
+odcinek łączący środki boków przylegających wynosi a/2
 
-oś odciętych - to oś x-ów
 
-oś rzędnych - to oś y-ów
-
-wierzchołek p
-
-$$ p = \frac{x_1 + x_2}{2} $$
-
-## geometria
+### Trapez
 
 ![](https://www.matemaks.pl/grafika/g0485.png)
 
 $$ x = \frac{a+b}2 $$
 
+![](Trapezoid_isosceles.svg)
+
+wytłumaczenie: robimy z trapeza 2 trójkąty, dzięki temu wiemy jaka jest długość środkowej trapezu
+
+### Romb
+
+![](Rhombus.svg)
+
 ### Dowodzenie
 
 $$ \sqrt{\frac{a^2 + b^2}{2}} \geq \frac{a + b}{2} \geq \sqrt{a * b} $$
 
+
+średnia kwadratowa <= średnia artytmetyczna <= średnia geometryczna
+
+### Płaszczyzna kartezjańska
+
+oś odciętych - to oś x-ów
+
+oś rzędnych - to oś y-ów
+
+wierzchołek p:
+
+$$ p = \frac{x_1 + x_2}{2} $$
+
+
 ##### Sources:
 - https://www.matemaks.pl/matura-najwazniejsze-wzory-spoza-tablic.html
 - https://en.wikipedia.org/wiki/Centroid
+- https://pl.wikipedia.org/wiki/Trapez
+- https://en.wikipedia.org/wiki/Rhombus
+
 
 
 <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
