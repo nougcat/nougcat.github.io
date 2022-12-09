@@ -11,7 +11,7 @@ odcinek łączący środki boków przylegających wynosi a/2
 
 ### Trapez
 
-![](https://www.matemaks.pl/grafika/g0485.png)
+![](Trapez_mittellinie_en_labels.svg)
 
 $$ x = \frac{a+b}2 $$
 
@@ -32,6 +32,8 @@ $$ \sqrt{\frac{a^2 + b^2}{2}} \geq \frac{a + b}{2} \geq \sqrt{a * b} $$
 
 ### Płaszczyzna kartezjańska
 
+![](https://upload.wikimedia.org/wikipedia/commons/f/f8/Polynomialdeg2.svg)
+
 oś odciętych - to oś x-ów
 
 oś rzędnych - to oś y-ów
@@ -42,10 +44,10 @@ $$ p = \frac{x_1 + x_2}{2} $$
 
 
 ##### Sources:
-- https://www.matemaks.pl/matura-najwazniejsze-wzory-spoza-tablic.html
-- https://en.wikipedia.org/wiki/Centroid
-- https://pl.wikipedia.org/wiki/Trapez
-- https://en.wikipedia.org/wiki/Rhombus
+- <https://en.wikipedia.org/wiki/Centroid>
+- <https://pl.wikipedia.org/wiki/Trapez>
+- <https://en.wikipedia.org/wiki/Trapezoid>
+- <https://en.wikipedia.org/wiki/Rhombus>
 
 
 
