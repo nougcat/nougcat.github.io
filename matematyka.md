@@ -6,7 +6,7 @@
 
 ![](triangle.svg)
 
-odcinek łączący środki boków przylegających wynosi a/2
+odcinek łączący środki boków trójkąta wynosi $\frac{a}{2}$
 
 
 ### Trapez
@@ -28,7 +28,7 @@ wytłumaczenie: robimy z trapeza 2 trójkąty, dzięki temu wiemy jaka jest dłu
 $$ \sqrt{\frac{a^2 + b^2}{2}} \geq \frac{a + b}{2} \geq \sqrt{a * b} $$
 
 
-średnia kwadratowa <= średnia artytmetyczna <= średnia geometryczna
+średnia kwadratowa $\geq$ średnia artytmetyczna $\geq$ średnia geometryczna
 
 ### Płaszczyzna kartezjańska
 
