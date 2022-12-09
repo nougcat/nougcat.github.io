@@ -1,3 +1,5 @@
+% Karty wzorów ++
+
 ## środkowa trójkąta
 
 środkowe trójkąta dzielą się na x i 2x
@@ -10,33 +12,23 @@ oś odciętych - to oś x-ów
 
 oś rzędnych - to oś y-ów
 
-p= (x1 + x2 )/2
+wierzchołek p
+
+$$ p = \frac{x1 + x2}{2} $$
 
 ## geometria
 
-x = (a+b)/2
-
 ![](https://www.matemaks.pl/grafika/g0485.png)
 
+$$ x = \frac{a+b}2 $$
 
-### Zależności między średnimi / dowody
+### Dowodzenie
 
-![](zaloznosci_srednie.png)
-
-w szczególności
-
-```math
-\frac{a + b}{2} \geq \sqrt{a * b}
-```
-
-oraz
-
-```math
-\frac{a + b}{2} \geq \sqrt{\frac{a^2 + b^2}{2}}
-```
+$$ \sqrt{\frac{a^2 + b^2}{2}} \geq \frac{a + b}{2} \geq \sqrt{a * b} $$
 
 ##### Sources:
 https://www.matemaks.pl/matura-najwazniejsze-wzory-spoza-tablic.html
-https://pazdro.com.pl/web/uploads/files/MPW_strony_m.pdf
+https://en.wikipedia.org/wiki/Centroid
+
 
 <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
