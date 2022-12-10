@@ -1,4 +1,5 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://nougcat.github.io/matura/'
 languageCode = 'pl'
 title = 'Karty wzorów ++'
 theme = "hugo-book"
+canonifyURLs = true
