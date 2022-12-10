@@ -1,0 +1,7 @@
+baseURL = 'http://example.org/'
+languageCode = 'pl'
+title = 'Karty wzorów ++'
+theme = "hugo-book"
+
+[params]
+    BookTheme = 'auto'
