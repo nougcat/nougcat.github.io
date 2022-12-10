@@ -128,3 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 index.html
+public/
+exampleSite/public/
+.DS_Store
+.hugo_build.lock
