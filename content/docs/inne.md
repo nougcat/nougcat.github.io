@@ -17,10 +17,6 @@ oś odciętych - to oś x-ów
 
 oś rzędnych - to oś y-ów
 
-wierzchołek p:
-
-$$ p = \frac{x_1 + x_2}{2} $$
-
 ## Sources:
 - https://www.cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Informatory/wybrane_wzory_matematyczne_EM2023.pdf
 - https://en.wikipedia.org/wiki/Quadratic_function
