@@ -27,10 +27,17 @@ wytłumaczenie: robimy z trapeza 2 trójkąty, dzięki temu wiemy jaka jest dłu
 ![](/Rhombus.svg)
 
 
+## środek okręgu w dowolnej figurze
+
+![](https://upload.wikimedia.org/wikipedia/commons/3/39/Bisector7.svg)
+
+środek okręgu to punk przecięcia symetralnych boków
+
 ## Sources:
 - <https://en.wikipedia.org/wiki/Centroid>
 - <https://pl.wikipedia.org/wiki/Trapez>
 - <https://en.wikipedia.org/wiki/Trapezoid>
 - <https://en.wikipedia.org/wiki/Rhombus>
+- <https://pl.wikipedia.org/wiki/Symetralna_odcinka>
 
 {{< katex display >}}
