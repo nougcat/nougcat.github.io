@@ -11,5 +11,6 @@ strona ta będzie regularnie update'owana przynajmniej do maja 2023
 uważasz, że powinnien się pojawić jeszcze jakiś wzór? zgłoś go **[tutaj](https://github.com/nougcat/matura/issues)**
 
 - [Figury geometryczne](docs/figury)
+- [Planimetria](docs/planimetria)
 - [Ostrosłupy + prostopadłościany](docs/stereometria)
 - [Inne](docs/inne)
