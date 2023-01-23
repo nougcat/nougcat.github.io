@@ -4,3 +4,5 @@ title = 'Karty wzorów ++'
 theme = "hugo-book"
 canonifyURLs = true
 
+[params]
+  BookTheme = 'auto'

@@ -14,3 +14,6 @@ uważasz, że powinnien się pojawić jeszcze jakiś wzór? zgłoś go **[tutaj]
 - [Planimetria](docs/planimetria)
 - [Ostrosłupy + prostopadłościany](docs/stereometria)
 - [Inne](docs/inne)
+
+
+strona najlepiej wygląda z *jasnym* tłem, niektóre zdjęcia potrafią wyglądać średnio na jasnym motywie
