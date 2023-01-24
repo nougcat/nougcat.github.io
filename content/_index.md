@@ -13,6 +13,7 @@ uważasz, że powinnien się pojawić jeszcze jakiś wzór? zgłoś go **[tutaj]
 - [Figury geometryczne](docs/figury)
 - [Planimetria](docs/planimetria)
 - [Ostrosłupy + prostopadłościany](docs/stereometria)
+- [Funkcje](docs/funkcje.md)
 - [Inne](docs/inne)
 
 
