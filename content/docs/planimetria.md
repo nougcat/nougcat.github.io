@@ -10,4 +10,8 @@ trudno mi jest to wytłumaczyć, ale mam nadzieję że widzisz zależność 🙃
 
 (wiem że za te kolory powinniem odpowiadać przed trybunałem w Norynberdze xd)
 
+Sources:
+- [karty wzorów cke](https://www.cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Informatory/wybrane_wzory_matematyczne_EM2023.pdf#page=19)
+
+
 {{< katex display >}}
