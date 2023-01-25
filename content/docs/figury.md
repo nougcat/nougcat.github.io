@@ -2,11 +2,11 @@
 
 ## Dowolny Trójkąt
 
-![](/static/TriangleCentroid.svg)
+![](/TriangleCentroid.svg)
 
 środkowe trójkąta dzielą się na x i 2x
 
-![](/static/triangle.svg)
+![](/triangle.svg)
 
 
 odcinek łączący środki boków trójkąta wynosi $\frac{a}{2}$
@@ -18,13 +18,13 @@ odcinek łączący środki boków trójkąta wynosi $\frac{a}{2}$
 
 $$ x = \frac{a+b}2 $$
 
-![](/static/Trapezoid_isosceles.svg)
+![](/Trapezoid_isosceles.svg)
 
 wytłumaczenie: robimy z trapeza 2 trójkąty, dzięki temu wiemy jaka jest długość środkowej trapezu
 
 ## Romb
 
-![](/static/Rhombus.svg)
+![](/Rhombus.svg)
 
 
 ## środek okręgu w dowolnej figurze

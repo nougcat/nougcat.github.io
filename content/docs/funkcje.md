@@ -14,7 +14,7 @@ wierzchołek p:
 
 $$ p = \frac{x_1 + x_2}{2} $$
 
-![](/static/srodek_symetrii.png)
+![](/srodek_symetrii.png)
 
 w każdej funkcji środek symetrii to również punkt p
 
@@ -22,7 +22,7 @@ w każdej funkcji środek symetrii to również punkt p
 
 przykład: $$f(x) = \frac{1}{x-p} + q$$
 
-![](/static/wymierna.png)
+![](/wymierna.png)
 
 trzeba pamiętać o dziedzinie w tym wypatku $D = \R-\{p\}$
 
