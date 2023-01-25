@@ -1,8 +1,8 @@
 ## kąt między styczną a cięciwą
 
-![](/my-ugly-drawing.svg)
+![](/static/my-ugly-drawing.svg)
 
-![](/my-ugly-drawing-2.svg)
+![](/static/my-ugly-drawing-2.svg)
 
 trudno mi jest to wytłumaczyć, ale mam nadzieję że widzisz zależność 🙃
 
