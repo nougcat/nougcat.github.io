@@ -31,6 +31,8 @@ trzeba pamiętać o dziedzinie w tym wypatku $D = \R-\{p\}$
 $$f: (-3;5) \to \R$$
 to oznacza że funkcja ma arugmenty od -3 do 5 oraz, że zbiór wartości zawiera się w $\R$
 
+chcesz wiedzieć więcej? przeczytaj o [przeciwdziedzine](https://en.wikipedia.org/wiki/Codomain)
+
 ## Sources:
 - <https://en.wikipedia.org/wiki/Quadratic_function>
 
