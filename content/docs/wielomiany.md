@@ -11,7 +11,7 @@ dlatego próbujemy teraz ułamki, i wychodzi nam że W($\frac{1}{2}$)=0, dlatego
 
 |   |6  |-1 |5  |-1 |-1 |
 |---|---|---|---|---|---|
-|$\frac{1}{2}$||$(6*\frac{1}{2})-1$|1+5|3-1|1-1|
+|$\frac{1}{2}$||$(6*\frac{1}{2})$=3|$(2*\frac{1}{2})$=1|$(6*\frac{1}{2})$=3|$(2*\frac{1}{2})$=1|
 |             |6|2|6|2|0|
 
 ze schematu hornera dostajemy
