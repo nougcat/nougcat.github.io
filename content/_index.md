@@ -15,6 +15,7 @@ uważasz, że powinnien się pojawić jeszcze jakiś wzór? zgłoś go **[tutaj]
 - [Ostrosłupy + prostopadłościany](docs/stereometria)
 - [Funkcje](docs/funkcje)
 - [Wielomiany](docs/wielomiany)
+- [Geometria Analityczna](docs/geo-analityczna)
 - [Inne](docs/inne)
 
 
