@@ -24,6 +24,7 @@ albo $5x-3y = 3y+5  \iff 5x = 6y+5$
 ## słówka i guess
 
 oś odciętych -> oś x-sów
+
 oś rzędnych -> oś y-greków
 
 ![](/os-rzednych-odcietych.png)

@@ -20,3 +20,7 @@ uważasz, że powinnien się pojawić jeszcze jakiś wzór? zgłoś go **[tutaj]
 
 
 strona najlepiej wygląda z *jasnym* tłem, niektóre zdjęcia potrafią wyglądać średnio na jasnym motywie
+
+btw:
+- [karty wzorów na maturze - cke](https://www.cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Informatory/wybrane_wzory_matematyczne_EM2023.pdf)
+- [geogebra - spoczko rzecz](https://www.geogebra.org/)
