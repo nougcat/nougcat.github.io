@@ -8,7 +8,7 @@ strona ta zawiera wzory, których nie ma w kartach w wzorów, albo są powiedzia
 
 strona ta będzie regularnie update'owana przynajmniej do maja 2023
 
-uważasz, że powinnien się pojawić jeszcze jakiś wzór? zgłoś go **[tutaj](https://github.com/nougcat/matura/issues)**
+uważasz, że coś jeszcze powinno się tutaj pojawić? zgłoś go **[tutaj](https://github.com/nougcat/matura/issues)** lub wyślij mi email'a - patryk_git at outlook dot com
 
 - [Figury geometryczne](docs/figury)
 - [Planimetria](docs/planimetria)
