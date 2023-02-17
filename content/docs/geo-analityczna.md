@@ -3,7 +3,7 @@
 
 to jest przykładowe zadanie
 
-**Dany jest okrąg $(x-3)^2 + (y+5)^2 = 9$, wyznacz równania stycznych przechodzące przez punkt P = (2, 3)**
+**Dany jest okrąg $(x-3)^2 + (y+5)^2 = 9$, wyznacz równania stycznych przechodzące przez punkt $P = (2, 3)$**
 
 rysunek:
 ![](/zad-geo-analityczna.png)
