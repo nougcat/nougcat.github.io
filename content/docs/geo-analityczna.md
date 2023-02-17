@@ -1,4 +1,13 @@
 # Geometria analityczna
+
+## Okrąg
+
+Symetralna to prosta prostopadła przechodząca przez środek danego odcinka. W okręgu symetralna cięciwy ZAWSZE przechodzi przez środek okręgu
+
+![](/symetralna-cieciwy.png)
+
+
+
 ## zadanie z dwoma stycznymi z jednego punktu
 
 to jest przykładowe zadanie
