@@ -11,11 +11,11 @@ strona ta będzie regularnie update'owana przynajmniej do maja 2023
 uważasz, że coś jeszcze powinno się tutaj pojawić? zgłoś go **[tutaj](https://github.com/nougcat/matura/issues)** lub wyślij mi email'a - patryk_git at outlook dot com
 
 - [Figury geometryczne](docs/figury)
-- [Planimetria](docs/planimetria)
-- [Ostrosłupy + prostopadłościany](docs/stereometria)
 - [Funkcje](docs/funkcje)
 - [Wielomiany](docs/wielomiany)
+- [Planimetria](docs/planimetria)
 - [Geometria Analityczna](docs/geo-analityczna)
+- [Stereometria](docs/stereometria)
 - [Inne](docs/inne)
 
 

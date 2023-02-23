@@ -26,6 +26,11 @@ wytłumaczenie: robimy z trapeza 2 trójkąty, dzięki temu wiemy jaka jest dłu
 
 ![](/Rhombus.svg)
 
+wzór na wysokość rombu:
+$$P=a⋅h$$
+$$P=a^2sin(\alpha)$$
+$$a *h = a^2sin(\alpha)$$
+$$h = a*sin(\alpha)$$
 
 ## środek okręgu w dowolnej figurze
 

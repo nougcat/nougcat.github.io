@@ -1,3 +1,12 @@
+# Stereometria
+## Proste skośne
+
+![](https://mathworld.wolfram.com/images/eps-svg/SkewLines_700.svg)
+
+w prostych skośnych nie istnieje płaszczyzna na której leżą obie proste
+
+proste te NIE są równoległe
+
 ## Kąty dwuścienne
 tak szczerze średnio to ogarniam, poniżej podaje materiały plus trochę wizualizacji
 
@@ -14,6 +23,7 @@ tak szczerze średnio to ogarniam, poniżej podaje materiały plus trochę wizua
 ɣ- kąt nachylenia płaszczyzny do ściany bocznej sześcianu.
 
 źródła:
+- <https://mathworld.wolfram.com/images/eps-svg/SkewLines_700.svg>
 - <https://zpe.gov.pl/a/przeczytaj/DZYXlORvI>
 
 {{< katex display >}}
