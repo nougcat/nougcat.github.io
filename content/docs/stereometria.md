@@ -1,4 +1,11 @@
 # Stereometria
+
+## nomenklatura
+
+ostrosłup/gransiastosłup prawidłowy -> w podstawie jest figura foremna
+
+ostrosłup/gransiastosłup prosty -> spodek wysokości jest w równej odległości od wierzchołków podstawy
+
 ## Proste skośne
 
 ![](https://mathworld.wolfram.com/images/eps-svg/SkewLines_700.svg)
