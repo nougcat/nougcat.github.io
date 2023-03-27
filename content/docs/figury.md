@@ -32,12 +32,6 @@ $$P=a^2sin(\alpha)$$
 $$a *h = a^2sin(\alpha)$$
 $$h = a*sin(\alpha)$$
 
-## środek okręgu w dowolnej figurze
-
-![](https://upload.wikimedia.org/wikipedia/commons/3/39/Bisector7.svg)
-
-środek okręgu to punk przecięcia symetralnych boków
-
 ## Sources:
 - <https://en.wikipedia.org/wiki/Centroid>
 - <https://pl.wikipedia.org/wiki/Trapez>

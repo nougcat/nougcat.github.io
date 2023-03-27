@@ -17,7 +17,9 @@ okrąg wpisany w trójkąt leży w punkcie przecięcia dwusiecznych
 
 ## okrąg opisany na trójkącie
 
-okrąg opisany na trójkącie leży na środku ciężkości
+okrąg opisany na trójkącie leży na punkcie przecięcia symetralnych
+
+![](https://upload.wikimedia.org/wikipedia/commons/5/5e/Triangle.Centroid.svg)
 
 
 Sources:
