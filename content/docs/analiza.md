@@ -22,9 +22,7 @@ gdzie g to granica
 
 5. Twierdzenie Bolzana-Weierstrassa
 
-Z każdego ograniczonego ciągu liczb rzeczywistych 
-$(c_n)_{n=0}^\infty$
- można wybrać podciąg zbieżny, tzn. można wybrać rosnący ciąg indeksów $n_0,n_1,n_2,n_3,\dots, n_k$ tak, że ciąg $(c_{n_k})_{k=0}^\infty$ jest zbieżny. 
+psuje się formatowanie tekstu wiec musisz przeczytać [gdzieś indziej](https://pl.wikipedia.org/wiki/Twierdzenie_Bolzana-Weierstrassa). Generalnie jak jest jakiś ciąg ograniczony to istnieje taki podciąg, który jest zbieżny
 
 1. Dwumian Newtona 
 $${n\choose k}= \frac{n!}{k!*(n-k)!}$$
