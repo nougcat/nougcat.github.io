@@ -67,8 +67,14 @@ to ciąg $a_n$ jest tylko zbieżny kiedy kiedy poniższy ciąg też jest zbieżn
 
 $$\sum_{n=1}^{\infty} 2^n*a_{2n}$$
 
+4. Kryterium Leibniza (naprzemienny)
 
-99. źródła:
+jeśli ciąg $a_n$ jest malejący, to
+
+$$\sum_{n=1}^{\infty} (-1)^n*a_n$$
+ten ciąg jest zbieżny.
+
+99.  źródła:
 - <https://www.math.uni.wroc.pl/~mpal/academic/2023/skrypt.pdf>
 - <https://pl.wikipedia.org/wiki/Ci%C4%85g_Cauchy%E2%80%99ego>
 - <https://pl.wikipedia.org/wiki/Twierdzenie_Bolzana-Weierstrassa>
