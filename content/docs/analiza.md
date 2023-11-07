@@ -15,12 +15,16 @@ $$\lim_{x \to \infty}(1+\frac{c}{n})^n=e^c$$
 
 $$\lim_{x \to \infty}(1+\frac{1}{2n+3})^{2n+3}=e$$
 
-4. Warunek Cauch'ego
+4. another zależność of $e$
+   
+$$\lim_{x \to \infty}(1-\frac{1}{n})^n=\frac{1}{e}$$
+
+5. Warunek Cauch'ego
 
 $$|f(x)-g|< \epsilon $$
 gdzie g to granica
 
-5. Twierdzenie Bolzana-Weierstrassa
+6. Twierdzenie Bolzana-Weierstrassa
 
 psuje się formatowanie tekstu wiec musisz przeczytać [gdzieś indziej](https://pl.wikipedia.org/wiki/Twierdzenie_Bolzana-Weierstrassa). tldr: Jak jest jakiś ciąg ograniczony to istnieje taki podciąg, który jest zbieżny. Aby to osiągnośc po prostu musisz ciąć oryginalny ciąg na salami, i któraś z połówek jest zbieżna.
 
@@ -29,17 +33,31 @@ $${n\choose k}= \frac{n!}{k!*(n-k)!}$$
 
 ## Szeregi
 
-1. Kryterium zagęsczenie(d'Alemberta):
+1. Kryterium Cauchy'ego OG
+
+rozważmy dany szereg:
+$$\sum_{n=1}^{\infty}a_n$$
+
+jeśli 
+$$\lim_{n \to \infty} \sqrt[n]{a_n}<1$$
+wtedy jest zbieżny.
+
+jeśli:
+$$\lim_{n \to \infty} \sqrt[n]{a_n}\ge1$$
+wtedy jest rozbieżny.
+
+
+2. Kryterium zagęsczenie(d'Alemberta):
 
 jeśli:
 $$\lim_{n \to \infty} \frac{a_{n+1}}{a_n} < 1 $$
-to jest zbieźny.
+wtedyy jest zbieźny.
 
 natomiast, jeśli od pewnego momentu:
 $$\frac{a_{n+1}}{a_n} \ge 1$$
-to jest rozbieźny.
+wtedy jest rozbieźny.
 
-2. Kryterium Cauchy'ego
+3. Kryterium Cauchy'ego zagęszczające
 
 jeśli ciąg $a_n$ jest nierosnący dla wszystkich $n$:
 
