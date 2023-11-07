@@ -22,7 +22,7 @@ gdzie g to granica
 
 5. Twierdzenie Bolzana-Weierstrassa
 
-psuje się formatowanie tekstu wiec musisz przeczytać [gdzieś indziej](https://pl.wikipedia.org/wiki/Twierdzenie_Bolzana-Weierstrassa). Generalnie jak jest jakiś ciąg ograniczony to istnieje taki podciąg, który jest zbieżny
+psuje się formatowanie tekstu wiec musisz przeczytać [gdzieś indziej](https://pl.wikipedia.org/wiki/Twierdzenie_Bolzana-Weierstrassa). tldr: Jak jest jakiś ciąg ograniczony to istnieje taki podciąg, który jest zbieżny, po prostu musisz ciąć oryginalny ciąg na salami, i któraś z połówek jest zbieżna.
 
 1. Dwumian Newtona 
 $${n\choose k}= \frac{n!}{k!*(n-k)!}$$
