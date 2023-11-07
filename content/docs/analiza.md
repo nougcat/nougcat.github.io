@@ -23,7 +23,9 @@ gdzie g to granica
 5. Twierdzenie Bolzana-Weierstrassa
 
 Każdy ciąg ograniczony zawiera podciąg zbieżny
-Z każdego ograniczonego ciągu liczb rzeczywistych $ (c_n)_{n=0}^\infty $ można wybrać podciąg zbieżny, tzn. można wybrać rosnący ciąg indeksów $n_0,n_1,n_2,n_3,\dots, n_k$ tak, że ciąg $(c_{n_k})_{k=0}^\infty$ jest zbieżny. 
+Z każdego ograniczonego ciągu liczb rzeczywistych 
+$(c_n)_{n=0}^\infty$
+ można wybrać podciąg zbieżny, tzn. można wybrać rosnący ciąg indeksów $n_0,n_1,n_2,n_3,\dots, n_k$ tak, że ciąg $(c_{n_k})_{k=0}^\infty$ jest zbieżny. 
 
 6. Dwumian Newtona 
 $${n\choose k}= \frac{n!}{k!*(n-k)!}$$
