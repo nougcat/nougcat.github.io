@@ -5,13 +5,16 @@
 1. Wzór de Moivre'a
 
 $$ z=|z|(\cos\alpha +i \sin\alpha)$$
+
 $$ w=|w|(\cos\beta +i \sin\beta)$$
 
-$$ z * w = | z * w | ( \cos ( \alpha + \beta) + i \sin( \alpha + \beta))$$
+<br>
+
+$$ z * w =\newline | z * w | ( \cos ( \alpha + \beta) + i \sin( \alpha + \beta))$$
 
 a z tego wynika:
 
-$$(|z|(\cos\varphi +i \sin\varphi))^n=|z|^n(\cos(\varphi n)+i \sin(\varphi n))$$
+$$(|z|(\cos\varphi +i \sin\varphi))^n=\newline = |z|^n(\cos(\varphi n)+i \sin(\varphi n))$$
 
 
 ## Ciągi
