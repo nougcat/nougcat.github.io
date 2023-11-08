@@ -23,15 +23,15 @@ dla $n\ge 2$ oraz $x>-1$ oraz $x\neq 0$
 
 2. zależność $e$ (NIE MOŻNA UŻYWAĆ, tutaj jest [dowód](/docs/dowod_ex))
 
-$$\lim_{k \to \infty}(1+\frac{c}{n})^n=e^c$$
+$$\lim_{n \to \infty}(1+\frac{c}{n})^n=e^c$$
 
 3. kolejna zależność $e$
 
-$$\lim_{k \to \infty}(1+\frac{1}{2n+3})^{2n+3}=e$$
+$$\lim_{n \to \infty}(1+\frac{1}{2n+3})^{2n+3}=e$$
 
 4. another zależność of $e$
    
-$$\lim_{k \to \infty}(1-\frac{1}{n})^n=\frac{1}{e}$$
+$$\lim_{n \to \infty}(1-\frac{1}{n})^n=\frac{1}{e}$$
 
 5. Warunek Cauch'ego
 
