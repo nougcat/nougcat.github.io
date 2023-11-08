@@ -95,8 +95,4 @@ ten ciąg jest zbieżny.
 - <https://www.matemaks.pl/kryterium-d-alemberta.html>
 - <https://pl.wikipedia.org/wiki/Kryterium_Cauchy%E2%80%99ego_zag%C4%99szczaj%C4%85ce>
 
-100. "coś nie działa, zmień coś" 🤓
-
-<a href = "mailto:patrykdev@fastmail.">wyślij email'a</a>
-
 {{< katex display >}}
