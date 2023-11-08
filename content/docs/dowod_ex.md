@@ -10,6 +10,5 @@ $$\lim_{n \to \infty} (1 + \frac{1}{k})^{kc} = (\lim_{k \to \infty} (1 + \frac{1
 
 dowód ukradziony od: <https://math.stackexchange.com/questions/420018/proving-lim-limits-n-to-infty-left1-fracxn-rightn-textex>
 
-dziękuję panie @math_man i @jameselmore
 
 {{< katex display >}}
