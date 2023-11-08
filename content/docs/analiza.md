@@ -4,10 +4,10 @@
 
 1. Wzór de Moivre'a
 
-$$z=|z|(\cos\alpha +i \sin\alpha)$$
-$$w=|w|(\cos\beta +i \sin\beta)$$
+$$ z=|z|(\cos\alpha +i \sin\alpha)$$
+$$ w=|w|(\cos\beta +i \sin\beta)$$
 
-$$z*w=|z*w|(\cos(\alpha+\beta)+i\sin(\alpha+\beta))$$
+$$ z * w = | z * w | ( \cos ( \alpha + \beta) + i \sin( \alpha + \beta))$$
 
 a z tego wynika:
 
@@ -21,7 +21,7 @@ $$(|z|(\cos\varphi +i \sin\varphi))^n=|z|^n(\cos(\varphi n)+i \sin(\varphi n))$$
 $$(1+x)^n>1+nx$$
 dla $n\ge 2$ oraz $x>-1$ oraz $x\neq 0$
 
-2. zależność $e$ (NIE MOŻNA UŻYWAĆ, tutaj jest [dowód](dowod_ex))
+2. zależność $e$ (NIE MOŻNA UŻYWAĆ, tutaj jest [dowód](/docs/dowod_ex))
 
 $$\lim_{k \to \infty}(1+\frac{c}{n})^n=e^c$$
 
