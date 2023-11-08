@@ -1,5 +1,19 @@
 # Analiza Matematyczna
 
+## Liczby zespolone
+
+1. Wzór de Moivre'a
+
+$$z=|z|(\cos\alpha +i \sin\alpha)$$
+$$w=|w|(\cos\beta +i \sin\beta)$$
+
+$$z*w=|z*w|(\cos(\alpha+\beta)+i\sin(\alpha+\beta))$$
+
+a z tego wynika:
+
+$$(|z|(\cos\varphi +i \sin\varphi))^n=|z|^n(\cos(\varphi n)+i \sin(\varphi n))$$
+
+
 ## Ciągi
 
 1. nierówność bernoulliego
@@ -28,7 +42,7 @@ gdzie g to granica
 
 psuje się formatowanie tekstu wiec musisz przeczytać [gdzieś indziej](https://pl.wikipedia.org/wiki/Twierdzenie_Bolzana-Weierstrassa). tldr: Jak jest jakiś ciąg ograniczony to istnieje taki podciąg, który jest zbieżny. Aby to osiągnośc po prostu musisz ciąć oryginalny ciąg na salami, i któraś z połówek jest zbieżna.
 
-1. Dwumian Newtona 
+7. Dwumian Newtona 
 $${n\choose k}= \frac{n!}{k!*(n-k)!}$$
 
 ## Szeregi
