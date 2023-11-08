@@ -97,7 +97,6 @@ ten ciąg jest zbieżny.
 
 100. "coś nie działa, zmień coś" 🤓
 
-<a href = "mailto:patrykdev@fastmail.com?subject = Błąd/propozycja zmiany w notatkach z analizy &body = tutaj napisz co chcesz">
-wyślij email'a</a>
+<a href = "mailto:patrykdev@fastmail.com">wyślij email'a</a>
 
 {{< katex display >}}
