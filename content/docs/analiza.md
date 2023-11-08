@@ -21,17 +21,17 @@ $$(|z|(\cos\varphi +i \sin\varphi))^n=|z|^n(\cos(\varphi n)+i \sin(\varphi n))$$
 $$(1+x)^n>1+nx$$
 dla $n\ge 2$ oraz $x>-1$ oraz $x\neq 0$
 
-2. zależność $e$
+2. zależność $e$ (NIE MOŻNA UŻYWAĆ, tutaj jest [dowód](dowod_e^x))
 
-$$\lim_{x \to \infty}(1+\frac{c}{n})^n=e^c$$
+$$\lim_{k \to \infty}(1+\frac{c}{n})^n=e^c$$
 
 3. kolejna zależność $e$
 
-$$\lim_{x \to \infty}(1+\frac{1}{2n+3})^{2n+3}=e$$
+$$\lim_{k \to \infty}(1+\frac{1}{2n+3})^{2n+3}=e$$
 
 4. another zależność of $e$
    
-$$\lim_{x \to \infty}(1-\frac{1}{n})^n=\frac{1}{e}$$
+$$\lim_{k \to \infty}(1-\frac{1}{n})^n=\frac{1}{e}$$
 
 5. Warunek Cauch'ego
 
@@ -94,5 +94,10 @@ ten ciąg jest zbieżny.
 - <https://pl.wikipedia.org/wiki/Twierdzenie_Bolzana-Weierstrassa>
 - <https://www.matemaks.pl/kryterium-d-alemberta.html>
 - <https://pl.wikipedia.org/wiki/Kryterium_Cauchy%E2%80%99ego_zag%C4%99szczaj%C4%85ce>
+
+100. "coś nie działa, zmień coś" 🤓
+
+<a href = "mailto:patrykdev@fastmail.com?subject = Błąd/propozycja zmiany w notatkach z analizy &body = tutaj napisz co chcesz">
+wyślij email'a</a>
 
 {{< katex display >}}
