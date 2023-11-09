@@ -16,6 +16,11 @@ a z tego wynika:
 
 $$(|z|(\cos\varphi +i \sin\varphi))^n=\newline = |z|^n(\cos(\varphi n)+i \sin(\varphi n))$$
 
+a co z rozwiązaniami pierwiastka z $z$, dla $k \in \N$?
+
+$$\sqrt[n]{|z|}(\cos \frac{\varphi + 2 k \pi }{n}+ i \sin \frac{\varphi+2 k \pi}{n})$$
+
+
 
 ## Ciągi
 
