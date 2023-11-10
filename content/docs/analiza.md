@@ -69,11 +69,11 @@ $$\lim_{n \to \infty} \sqrt[n]{a_n}\ge1$$
 wtedy jest rozbieżny.
 
 
-2. Kryterium zagęsczenie(d'Alemberta):
+2. Kryterium zagęsczenia (d'Alemberta):
 
 jeśli:
 $$\lim_{n \to \infty} \frac{a_{n+1}}{a_n} < 1 $$
-wtedyy jest zbieźny.
+wtedy jest zbieźny.
 
 natomiast, jeśli od pewnego momentu:
 $$\frac{a_{n+1}}{a_n} \ge 1$$
