@@ -91,7 +91,7 @@ $$\sum_{n=1}^{\infty} 2^n*a_{2n}$$
 
 4. Kryterium Leibniza (naprzemienny)
 
-jeśli ciąg $a_n$ jest malejący ( $ /lim_( n /to /infty ) a_n = 0$ ), to
+jeśli ciąg $a_n$ jest malejący $(\lim_{n \to \infty} a_n = 0)$, to
 
 $$\sum_{n=1}^{\infty} (-1)^n*a_n$$
 ten ciąg jest zbieżny.
@@ -102,5 +102,6 @@ ten ciąg jest zbieżny.
 - <https://pl.wikipedia.org/wiki/Twierdzenie_Bolzana-Weierstrassa>
 - <https://www.matemaks.pl/kryterium-d-alemberta.html>
 - <https://pl.wikipedia.org/wiki/Kryterium_Cauchy%E2%80%99ego_zag%C4%99szczaj%C4%85ce>
+- <https://www.matemaks.pl/pierwiastkowanie-liczb-zespolonych.html> 
 
 {{< katex display >}}
