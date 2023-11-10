@@ -91,7 +91,7 @@ $$\sum_{n=1}^{\infty} 2^n*a_{2n}$$
 
 4. Kryterium Leibniza (naprzemienny)
 
-jeśli ciąg $a_n$ jest malejący, to
+jeśli ciąg $a_n$ jest malejący ($/lim_(n /to /infty) a_n = 0$), to
 
 $$\sum_{n=1}^{\infty} (-1)^n*a_n$$
 ten ciąg jest zbieżny.
